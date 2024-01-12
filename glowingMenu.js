@@ -3,6 +3,6 @@
 
 
 let cursor = document.querySelector('#cursor'); 
-document.addEventListener('mousemove', (e) => {
-  cursor.style.top = e.pageY + 'px' ; 
-  cursor.style.left = e.pageX + 'px' ; 
+document.addEventListener('mousemove', (event) => {
+  cursor.style.top = event.pageY + 'px' ; 
+  cursor.style.left = event.pageX + 'px' ; 
