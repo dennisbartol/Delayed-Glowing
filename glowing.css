@@ -12,5 +12,8 @@ body {
     align-items: center; 
     min-height: 100vh; 
     background: #222;
-    /* cursor: none; */
+}
+
+body:hover #cursor {
+    opacity: 1; 
 }
