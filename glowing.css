@@ -17,3 +17,17 @@ body {
 body:hover #cursor {
     opacity: 1; 
 }
+
+ul li {
+    position: relative; 
+    padding: 10px 0; 
+    text-align: left; 
+    list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #555; 
+    /* cursor: none; */
+    text-shadow: 3px 3px 0 #111;
+}
