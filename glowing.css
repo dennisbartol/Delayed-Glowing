@@ -45,6 +45,5 @@ ul li:hover a span {
     text-shadow: 0 0 6px ghostwhite, 
     0 0 12px ghostwhite, 
     0 0 24px ghostwhite, 
-    0 0 48px ghostwhite,
-    /*  0 96px ghostwhite; */
+    0 0 42px ghostwhite;
 }
